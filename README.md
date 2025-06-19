@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 🐱, I'm Panxin Liu  
+👩‍💻 Cat mom & software developer based in Vancouver  
 
-<!--
-**Liupanx/Liupanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me  
+🎓 Master of Computer Science @ Northeastern University
+🧠 Building **ELLMA-T**, an embodied conversational agent in VRChat to help reduce speaking anxiety  
+📈 Ex-marketer who once localized global brands (cars, skincare, herbal drinks) and helped launch local ones into international markets — from China to the world!  
+💡 Now I build human-centered tools that blend language, learning, and immersive tech  
 
-Here are some ideas to get you started:
+## 🛠 Tech I Use  
+**Languages:** Python, Java, JavaScript, TypeScript, SQL, C, HTML, CSS, Apex  
+**Technologies:** React.js, Express.js, Node.js, REST APIs, WebSocket, JUnit, Prisma, Tailwind, SASS, LWC, LLM, OpenAI API  
+**Databases:** MongoDB, MySQL, Firebase, NoSQL  
+**Tools:** Git, Maven, IntelliJ, VS Code, Linux, Vim, Postman, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning  
+🔧 Salesforce Apex & LWC — exploring how business logic meets frontend magic  
+
+## ✨ Fun Stuff  
+🌽 Spent 4 years living in cornfields — guess which U.S. state?  
+🎬 Acted in a short film (*Lost in Shanghai*) that won a film fest  
+🧁 Baking is my debugging therapy — think *Cooking Spirit* meets mindfulness  
+
+## 🔗 Connect with Me  
+📧 liupanx@gmail.com
+🧑‍💼 [LinkedIn](https://www.linkedin.com/in/claireliu1222/)
