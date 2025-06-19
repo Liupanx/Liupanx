@@ -1,5 +1,5 @@
-Hi 🐱, I'm Panxin Liu  
-👩‍💻 Cat mom & software developer based in Vancouver  
+# 你好 🐱, I'm Claire Liu  
+## 👩‍💻 Software developer & proud cat mom to a commercial actor kitty in Vancouver  
 
 ## 👩‍💻 About Me  
 🎓 Master of Computer Science @ Northeastern University
