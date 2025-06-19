@@ -1,4 +1,4 @@
-# 你好 🐱, I'm Claire Liu  
+# 你好 🐱, I'm Panxin Liu  
 👩‍💻 Software developer & proud cat mom to a commercial actor kitty in Vancouver  
 
 ## 👩‍💻 About Me  
