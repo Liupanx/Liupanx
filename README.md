@@ -3,8 +3,8 @@
 
 ## 👩‍💻 About Me  
 🎓 Master of Computer Science @ Northeastern University  
-🧠 Building **ELLMA-T**, an embodied conversational agent in VRChat to help reduce speaking anxiety  
-📈 Former marketer who localized global brands (cars, skincare, herbal drinks) and helped launch local ones into international markets — from China to the world  
+🧠 Building **ELLMA-T**, an embodied conversational agent in VRChat to help reduce speaking anxiety
+📈 Former marketer who helped global brands go local — and local brands go global
 💡 Passionate about creating human-centered tools that blend language, learning, and immersive tech  
 
 ## 🛠 Tech I Use  
