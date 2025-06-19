@@ -1,5 +1,5 @@
 # 你好 🐱, I'm Claire Liu  
-## 👩‍💻 Software developer & proud cat mom to a commercial actor kitty in Vancouver  
+👩‍💻 Software developer & proud cat mom to a commercial actor kitty in Vancouver  
 
 ## 👩‍💻 About Me  
 🎓 Master of Computer Science @ Northeastern University
