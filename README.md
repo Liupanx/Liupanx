@@ -14,7 +14,7 @@
 **Tools:** Git, Maven, IntelliJ, VS Code, Linux, Vim, Postman, Docker  
 
 ## 📚 Currently Learning  
-🔧 Salesforce Apex & LWC — exploring how business logic meets frontend magic  
+🔧 Salesforce Apex & LWC for a Salesforce + LLM–integrated project with TractionComplete
 
 ## ✨ Fun Stuff  
 🌽 Spent 4 years living in cornfields — guess which U.S. state?  
