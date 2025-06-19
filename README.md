@@ -19,7 +19,7 @@
 ## ✨ Fun Stuff  
 🌽 Spent 4 years living in cornfields — guess which U.S. state?  
 🎬 Acted in a short film (*Lost in Shanghai*) that won a film fest  
-🧁 Baking is my debugging therapy — think *Cooking Spirit* meets mindfulness (translated poetically by ChatGPT)
+🧁 Baking is my debugging therapy — think *Cooking Spirit* meets mindfulness (Yes, ChatGPT poetically translated my baking thoughts from Chinese)
 
 ## 🔗 Connect with Me  
 📧 liupanx@gmail.com
