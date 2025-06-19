@@ -16,8 +16,7 @@
 ## 📚 Currently Learning  
 🔧 Salesforce Apex & LWC for a Salesforce + LLM–integrated project with TractionComplete
 
-## ✨ Fun Stuff  
-🌽 Spent 4 years living in cornfields — guess which U.S. state?  
+## ✨ Fun Stuff
 🎬 Acted in a short film (*Lost in Shanghai*) that won a film fest  
 🧁 Baking is my debugging therapy — think *Cooking Spirit* meets mindfulness (Yes, ChatGPT poetically translated my baking thoughts from Chinese)
 
