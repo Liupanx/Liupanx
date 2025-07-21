@@ -18,7 +18,7 @@
 
 ## ✨ Fun Stuff
 🎬 Acted in a short film (*Lost in Shanghai*) that won a film fest  
-🧁 Baking is my debugging therapy — think *Cooking Spirit* meets mindfulness (Yes, ChatGPT poetically translated my baking thoughts from Chinese)
+🧁 Baking is my debugging therapy
 
 ## 🔗 Connect with Me  
 📧 liupanx@gmail.com
