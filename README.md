@@ -1,5 +1,5 @@
-# 你好 🐱, I'm Panxin Liu  
-💻 Cat mom & software developer based in Vancouver.
+# 你好, I'm Panxin Liu  
+💻 Software developer based in Vancouver.
 
 ## 👩‍💻 About Me  
 🎓 Master of Computer Science @ Northeastern University  
